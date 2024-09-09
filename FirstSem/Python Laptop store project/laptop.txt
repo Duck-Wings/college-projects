@@ -1,0 +1,6 @@
+Razer Blade,Razer,Razer Blade 13,2000.00,0,i7 7th Gen,GTX 3060
+XPS,Dell,Dell XPS 13,1976.00,15,i5 9th Gen,GTX 3070
+Alienware,Dell,Alienware M12,1978.00,24,i5 9th Gen,GTX 3070
+Swift,Acer,Swift 3,9000.00,10,i5 9th Gen,GTX 3070
+Macbook,Apple,MacbookPro,3500.00,10,i5 9th Gen,GTX 3070
+Abc,Abc,23,3000.00,3,454,343
